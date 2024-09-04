@@ -1,6 +1,7 @@
 ﻿                                    //Tipos de operadores em C#: 
 
                                     //Etapa 1 Operadores de Atribuição. 
+
 //# Introduçõa define Atribuição:
 
  int a = 10; //exemplo: operação chamada de atribuição, operador sinal de = 
@@ -27,18 +28,18 @@ Console.WriteLine(c);
 //Não é uma operação valida pois o mesmo valor está como string "" em texto. para isso temos que usar um CASTING
 //usar a classe convert com o metodo ToInt32 tranforma a string em um int
 
-// int a = Convert.ToInt32(null); // não da erro caso o dados da conversão seja null
-// int a = int.Parse("5"); // não aceita o valor null encerra o programa
-// Console.WriteLine(a);
+int a = Convert.ToInt32(null); // não da erro caso o dados da conversão seja null
+int a = int.Parse("5"); // não aceita o valor null encerra o programa
+Console.WriteLine(a);
 
 
 
 //# Conversão para String 
 
-// int inteiro = 5; 
-// string a = inteiro.ToString(); //quando for representar ou converter usar diretamente o ToString pois ele representa da melhor forma
+int inteiro = 5; 
+string a = inteiro.ToString(); //quando for representar ou converter usar diretamente o ToString pois ele representa da melhor forma
 
-//   Console.WriteLine(a);
+Console.WriteLine(a);
 
 
 
@@ -66,27 +67,18 @@ Console.WriteLine(c);
 
 //segue os mesmo principios da matematica
 
-// double a = 4 / (2 + 2); 
-// Console.WriteLine(a); 
+double a = 4 / (2 + 2); 
+Console.WriteLine(a); 
 
 
 //#Convertendo de maneira Segura: 
 
-// string a = "15-";
-// int b = 0;
-// int.TryParse (a , out int b);
+ string a = "15-";
+ int b = 0;
+ int.TryParse (a , out int b);
 
-// Console.WriteLine(b); 
-// Console.WriteLine("Conversão realizada com sucesso!"); 
-
-
-
-
-
-
-
-
-
+ Console.WriteLine(b); 
+ Console.WriteLine("Conversão realizada com sucesso!"); 
 
 
 
@@ -114,7 +106,6 @@ else
  {
     Console.WriteLine("Desculpa. Não temos a quantidade desejada em estoque.");
 }
-
 
 
 // # Apredendendo o Switch case 
@@ -183,13 +174,6 @@ else
         Console.WriteLine("Não é uma vogal");
     break;
 }
-
-
-
-
-
-
-
 
 
 
