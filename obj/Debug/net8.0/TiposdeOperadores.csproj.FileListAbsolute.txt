@@ -1,0 +1,14 @@
+C:\Users\leopd\Desktop\TiposdeOperadores\bin\Debug\net8.0\TiposdeOperadores.exe
+C:\Users\leopd\Desktop\TiposdeOperadores\bin\Debug\net8.0\TiposdeOperadores.deps.json
+C:\Users\leopd\Desktop\TiposdeOperadores\bin\Debug\net8.0\TiposdeOperadores.runtimeconfig.json
+C:\Users\leopd\Desktop\TiposdeOperadores\bin\Debug\net8.0\TiposdeOperadores.dll
+C:\Users\leopd\Desktop\TiposdeOperadores\bin\Debug\net8.0\TiposdeOperadores.pdb
+C:\Users\leopd\Desktop\TiposdeOperadores\obj\Debug\net8.0\TiposdeOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopd\Desktop\TiposdeOperadores\obj\Debug\net8.0\TiposdeOperadores.AssemblyInfoInputs.cache
+C:\Users\leopd\Desktop\TiposdeOperadores\obj\Debug\net8.0\TiposdeOperadores.AssemblyInfo.cs
+C:\Users\leopd\Desktop\TiposdeOperadores\obj\Debug\net8.0\TiposdeOperadores.csproj.CoreCompileInputs.cache
+C:\Users\leopd\Desktop\TiposdeOperadores\obj\Debug\net8.0\TiposdeOperadores.dll
+C:\Users\leopd\Desktop\TiposdeOperadores\obj\Debug\net8.0\refint\TiposdeOperadores.dll
+C:\Users\leopd\Desktop\TiposdeOperadores\obj\Debug\net8.0\TiposdeOperadores.pdb
+C:\Users\leopd\Desktop\TiposdeOperadores\obj\Debug\net8.0\TiposdeOperadores.genruntimeconfig.cache
+C:\Users\leopd\Desktop\TiposdeOperadores\obj\Debug\net8.0\ref\TiposdeOperadores.dll

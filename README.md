@@ -1,6 +1,6 @@
-# <p align="center"> 👨‍💻Operadores Aritmetricos em C# 👨‍💻 </p>
+# <p align="center"> 👨‍💻Tipos de Operadores em C# 👨‍💻 </p>
 
-## Dentro dessas etapa vamos estar estudando os tipos de operadores que existem e as formas de aplica-los dentro do nosso codigo.<p>Em sequencia sequindo os topicos abaixo. </p>
+## Dentro dessas etapa vamos estar estudando os tipos de operadores que existem e as formas de aplicalos dentro do nosso codigo.<p>Em sequencia sequindo os topicos abaixo. </p>
 
 ## <p align="center"> Etapa 1</p>
 
