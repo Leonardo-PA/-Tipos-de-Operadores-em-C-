@@ -28,9 +28,9 @@ Console.WriteLine(c);
 //Não é uma operação valida pois o mesmo valor está como string "" em texto. para isso temos que usar um CASTING
 //usar a classe convert com o metodo ToInt32 tranforma a string em um int
 
-// int a = Convert.ToInt32(null); // não da erro caso o dados da conversão seja null
-// int a = int.Parse("5"); // não aceita o valor null encerra o programa
-// Console.WriteLine(a);
+int a = Convert.ToInt32(null); // não da erro caso o dados da conversão seja null
+int a = int.Parse("5"); // não aceita o valor null encerra o programa
+Console.WriteLine(a);
 
 
 
